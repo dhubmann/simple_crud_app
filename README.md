@@ -1,2 +1,2 @@
-# simple_crud_app
+# Description
 Practice application - CRUD API
